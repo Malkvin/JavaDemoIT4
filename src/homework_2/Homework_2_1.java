@@ -10,6 +10,7 @@ import java.util.Scanner;
 выглядит так: '% 2').
  */
 public class Homework_2_1 {
+
     public static void main(String[] args) {
         System.out.println("Введите число");
         Scanner scanner = new Scanner(System.in);
@@ -21,5 +22,4 @@ public class Homework_2_1 {
             scanner.close();
         }
     }
-
 }
